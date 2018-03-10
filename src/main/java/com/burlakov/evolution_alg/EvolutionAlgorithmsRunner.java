@@ -1,6 +1,6 @@
 package com.burlakov.evolution_alg;
 
-public class EvolutionAltgorithmsRunner {
+public class EvolutionAlgorithmsRunner {
 
     public static void main(String[] args) {
         System.out.println("Generating initial generation");
